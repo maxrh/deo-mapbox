@@ -1,5 +1,5 @@
 # deo-mapbox
  
-Indsæt punkter på kort med info-popoup ved klick.
+Indsæt punkter på kort med info-popup ved klick.
 
 https://docs.mapbox.com
